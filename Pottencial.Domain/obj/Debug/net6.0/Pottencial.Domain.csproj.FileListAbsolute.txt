@@ -1,0 +1,12 @@
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\bin\Debug\net6.0\Pottencial.Domain.deps.json
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\bin\Debug\net6.0\Pottencial.Domain.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\bin\Debug\net6.0\Pottencial.Domain.pdb
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.csproj.AssemblyReference.cache
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.AssemblyInfoInputs.cache
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.AssemblyInfo.cs
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\refint\Pottencial.Domain.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\Pottencial.Domain.pdb
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Domain\obj\Debug\net6.0\ref\Pottencial.Domain.dll

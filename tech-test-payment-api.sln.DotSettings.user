@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0c584f2_002D67ef_002D4164_002D9dd8_002D330c43846f13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItemCommandTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C7ED4F96-1888-4068-B21E-C2EDB006C5D8::net6.0::Pottencial.Tests.CommandTests.ItemCommandTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C7ED4F96-1888-4068-B21E-C2EDB006C5D8::net6.0::Pottencial.Tests.CommandTests.SellerCommandTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C7ED4F96-1888-4068-B21E-C2EDB006C5D8::net6.0::Pottencial.Tests.CommandTests.OrderCommandTest.DadoUmPedidoValidoDeveTerSucesso&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::C7ED4F96-1888-4068-B21E-C2EDB006C5D8::net6.0::Pottencial.Tests.CommandTests.OrderCommandTest.DadoUmPedidoInvalidoDeveFalhar&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bc4618fe_002Dd92b_002D428e_002Da7c3_002D3ad69206bab3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DadoUmPedidoInvalidoDeveFalhar" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Tests" Presentation="&amp;lt;Pottencial.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d1088ff0_002D6f5b_002D4b6f_002D8ad1_002D91ddf4dce91e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" IsLocked="True" Name="ItemCommandTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Tests" Presentation="&amp;lt;Pottencial.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fb0eb6dd_002D286d_002D4be8_002D9408_002D234d7411766a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItemCommandTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::C7ED4F96-1888-4068-B21E-C2EDB006C5D8::net6.0::Pottencial.Tests.CommandTests.ItemCommandTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

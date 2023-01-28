@@ -1,0 +1,17 @@
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\bin\Debug\net6.0\Pottencial.Infra.deps.json
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\bin\Debug\net6.0\Pottencial.Infra.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\bin\Debug\net6.0\Pottencial.Infra.pdb
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.csproj.AssemblyReference.cache
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.AssemblyInfoInputs.cache
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.AssemblyInfo.cs
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.csproj.CoreCompileInputs.cache
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\refint\Pottencial.Infra.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.pdb
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\ref\Pottencial.Infra.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\bin\Debug\net6.0\Pottencial.Domain.dll
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\bin\Debug\net6.0\Pottencial.Domain.pdb
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.csproj.CopyComplete
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\bin\Debug\net6.0\Pottencial.Infra.runtimeconfig.json
+C:\Users\studi\Desktop\New folder\Dio\tech-test-payment-api\Pottencial.Infra\obj\Debug\net6.0\Pottencial.Infra.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECLWiRZYReOdcVt2KyhTtZPQ68WIy1IRLf+s/RNU3UNGbw81b46YF3H8O7+OJKy0yVwo6eIzF1hYycgql/j8bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\studi\\Desktop\\New folder\\Dio\\tech-test-payment-api\\Pottencial.Domain\\Pottencial.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\studi\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
